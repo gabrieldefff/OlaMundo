@@ -21,3 +21,4 @@ for cidade in lista_cidades:
     vendas_df = pd.read_excel(f"Loja {cidade}.xlsx") # df = dataframe
     print(vendas_df)
 # %%
+#teste
